@@ -19,14 +19,9 @@ public class Estadistica {
         Scanner estatura_input= new Scanner(System.in);   
         
         //Variables
-        double persona1;
-        double persona2;
-        double persona3;
-        double persona4;
-        double persona5;
+        double persona1, persona2, persona3, persona4, persona5; 
         
-        double estatura;
-        double e_media;
+        double estatura, e_media;
         
         //Ingreso de datos
         System.out.print("Ingrese la estatura de la persona 1: ");

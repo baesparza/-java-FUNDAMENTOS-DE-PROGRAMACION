@@ -20,9 +20,7 @@ public class Terreno {
         Scanner input= new Scanner(System.in);  
         
         //Variables 
-        double largo;
-        double ancho;
-        double costo;
+        double largo, ancho, costo;
         
         double total;
         

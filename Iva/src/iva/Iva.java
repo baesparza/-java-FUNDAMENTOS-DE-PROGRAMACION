@@ -30,13 +30,9 @@ public class Iva {
         int producto2_val = 7;
         int producto3_val = 2;
         
-        int producto1_cant;
-        int producto2_cant;
-        int producto3_cant;
+        int producto1_cant, producto2_cant, producto3_cant;
         
-        int producto1_total;
-        int producto2_total;
-        int producto3_total;
+        int producto1_total, producto2_total, producto3_total;
         
         int total;
         double precio_final;
