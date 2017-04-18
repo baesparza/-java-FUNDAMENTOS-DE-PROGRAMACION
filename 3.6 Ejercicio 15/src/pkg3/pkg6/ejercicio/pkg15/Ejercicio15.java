@@ -23,10 +23,7 @@ public class Ejercicio15 {
         
         //Variables
         double dolares;
-        double yenes;
-        double pesetas;
-        double libras;
-        double marcos;
+        double yenes, pesetas, libras, marcos;
         //Esta variable refiere al valor de un dolar en **  al 17/04/2017
         double Vyenes = 108.953; 
         double Vpesetas = 156.66; 

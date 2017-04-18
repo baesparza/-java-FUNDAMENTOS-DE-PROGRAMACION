@@ -22,8 +22,7 @@ public class Ejercicio11 {
         Scanner input = new Scanner(System.in);
         
         //Variables
-        double dolares;
-        double pesos;
+        double dolares, pesos;
         double valor = 18.5075511; //Esta variable refiere al valor de un dolar en pesos mx al 17/04/2017
         
         //Ingreso de datos

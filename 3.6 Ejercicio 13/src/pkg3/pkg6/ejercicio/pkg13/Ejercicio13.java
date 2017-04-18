@@ -25,8 +25,7 @@ public class Ejercicio13 {
         Scanner input = new Scanner(System.in);
         
         //Variables
-        double volumen;
-        double area;
+        double volumen, area;
         float radio;
         
         //Ingreso de datos
