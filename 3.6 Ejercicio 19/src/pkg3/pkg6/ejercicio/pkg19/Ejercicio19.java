@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg3.pkg6.ejercicio.pkg1;
+package pkg3.pkg6.ejercicio.pkg19;
 
 /**
  *
- * @beesparza
+ * @baesparza
  */
-public class Ejercicio1 {
+public class Ejercicio19 {
 
     /**
      * @param args the command line arguments
